@@ -1,0 +1,12 @@
+
+	.completed{
+        text-decoration: line-through
+    }
+    H1{
+        text-align: center;
+    }
+    .border{
+        border: 5px solid rgba(101, 104, 101, 0.829) !important;
+        border-radius: 5px;
+        padding-bottom: 20px;
+    }
